@@ -2,6 +2,8 @@
 
 BDF/SHiP is designed to perform search for feebly interacting particles (FIPs) in a region of mass and coupling that is only accessible with a dedicated beam-dump configuration. It aims to use the unused 4e+19 protons at 400GeV at the CERN SPS accelerator. 
 
+Also aim to revision of the detector layout by the SHiP collaboration with goal of reducing the size and the overall space required. The result of location and layout optimisation study identify ECN3 (Experimental Cavern North 3) as the most suitable and cost effective option. 
+
 ## References 
 
 * Details of development in Ref. [1-14], complete list of report submitted in Ref. [15-40], detector developments [41-76], physics studies [77-87], development in theory [88-107], and PhD theses [108-127]. 
